@@ -54,7 +54,7 @@ div.jumbotron{
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
-  align: center
+  text-align: center;
 }
 
 h1.jumbotron{
